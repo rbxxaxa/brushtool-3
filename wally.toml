@@ -1,0 +1,13 @@
+[package]
+name = "rbxxaxa/brushtool-3"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+
+[dependencies]
+Promise = "evaera/promise@4.0.0"
+Sift = "csqrl/sift@0.0.2"
+Rewire = "sayhisam1/rewire@0.3.0"
+t = "osyrisrblx/t@3.0.0"
+React = "core-packages/react@17.0.1-rc.19"
+ReactRoblox = "core-packages/react-roblox@17.0.1-rc.19"
