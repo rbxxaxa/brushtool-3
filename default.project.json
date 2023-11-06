@@ -1,0 +1,17 @@
+{
+  "name": "Brushtool3",
+  "tree": {
+    "$className": "DataModel",
+    "StarterGui": {
+      "$className": "StarterGui",
+      "Brushtool3": {
+        "$className": "Folder",
+        "$path": "src",
+        "InstanceStorage": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true
+        }
+      }
+    }
+  }
+}
